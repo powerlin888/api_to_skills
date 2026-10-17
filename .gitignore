@@ -1,0 +1,57 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+build/
+.venv/
+venv/
+env/
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ---------- 环境变量与密钥 ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# ---------- 运行时产物 / 用户数据 ----------
+backend/data/pdfs/
+backend/data/skills/
+backend/data/uploads/
+backend/data/tmp/
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+*.log
+logs/
+
+# ---------- Node / 前端 ----------
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- IDE / 工具本地配置 ----------
+.arts/
+.codeartsdoer/
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db

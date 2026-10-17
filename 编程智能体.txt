@@ -1,0 +1,17 @@
+我想建我想做一个无代码平台网站 专门解决各种专用的编程环境的编程问题 主要的功能包括：
+1.可能要面对海量的编程指南 而且要自动实现pdf 将markitdown 转换成md文件后 生成Claude Code体系中 Skills 和 Reference
+2.可选择配置 对应某个编程指南的Skills 和 Reference群的 编程智能体 
+3.用户界面包括：
+a.上传pd编程指南  界面
+b.编程智能体 界面 包括为智能体选择某个编程指南的Skills 和 Reference群 以及编程智能体对话界面
+c.可选的用户上传 魔塔社区api key  或者其他模型提供商的链接 api key 以及模型名称 或者本地模型链接 端口 以及模型名称
+4.用户论坛 用户管理 签到奖励等功能 以及用户可以发表帖子 点赞 评论 等功能
+以上各个模块分别实现 可以单独调试都 没有bug后  整合各模块作为网站运行
+
+编程过程 遵循CLAUDE.zh.md中的规则 智能体使用agno框架 相关api参见E:\pdfapi_to_agentskills\agno说明
+
+我想做一个无代码平台的.md 
+请规划一个通用的 将编程指南转换为agent skills 和相应referen.md
+请规划一个使用agno 框架 通用的 将编程指南转换为agent skills 和相应reference 程序.md
+这几个文档是几个ai平台给出的规划 请参考
+
