@@ -55,3 +55,11 @@ pnpm-debug.log*
 *.code-workspace
 .DS_Store
 Thumbs.db
+
+# ---------- 本地规划草稿 / 调研笔记（不入开源仓库） ----------
+agno说明/
+spaCy-layout + llm 将pdf转换为agent skills 和 reference.md
+我想做一个无代码平台的.md
+编程智能体.txt
+请规划一个使用agno 框架 通用的 将编程指南转换为agent skills 和相应reference 程序.md
+请规划一个通用的 将编程指南转换为agent skills 和相应referen.md
